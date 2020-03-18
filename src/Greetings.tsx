@@ -1,5 +1,7 @@
 import React from 'react';
 
+// props를 선언
+// type 대신에 interface를 사용할 수 있지만 프로젝트 내에선 통일하기를 권장
 type GreetingProps = {
     name: string;
     mark: string;

@@ -1,4 +1,16 @@
-# React-TS-Tutorial
+React-TS-Tutorial
+===
+   
+[리액트 컴포넌트 타입스크립트로 작성하기](https://velog.io/@velopert/create-typescript-react-component)를 참고하여 작성되었습니다.
+
+## 프로젝트 생성
+```
+$ npx create-react-app react-ts-tutorial --typescript
+```
+위와 같이 맨 뒤에 `--typescript`를 사용하면 타입스크립트 설정이 적용된 프로젝트가 생성됨
+이미 만들어진 프로젝트에 타입스크립트를 적용하기 위해선 [링크](https://create-react-app.dev/docs/adding-typescript/) 참고
+
+***
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
